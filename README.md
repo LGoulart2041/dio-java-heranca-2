@@ -68,7 +68,7 @@ system/
 ```
 ## 📖 Diagrama de Classes
 
-![Diagrama de Classes](../dio-java-heranca-ex2/src/img/user-company-system.drawio.png)
+![Diagrama de Classes](../dio-java-heranca-2/src/img/user-company-system.drawio.png)
 
 
 - Java 17+
